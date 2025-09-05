@@ -37,7 +37,7 @@ import {
 } from "../consts";
 
 /**
- * @tag advanded-chat-kai
+ * @tag advanced-chat-kai
  *
  * @summary The main component of the chat application
  *
