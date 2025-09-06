@@ -1,4 +1,4 @@
-import type { ChatRoom } from "../../../src/types";
+import type { ChatRoom } from "advanced-chat-kai";
 import LitLogo from "../assets/lit.svg";
 
 export const fetchRooms = async (index: number): Promise<ChatRoom[]> => {
