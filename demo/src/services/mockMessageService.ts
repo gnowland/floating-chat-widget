@@ -3,7 +3,7 @@ import type {
   ChatMessage,
   ChatMessageAttachment,
   ChatMessageReply,
-} from "../../../src/types";
+} from "advanced-chat-kai";
 import LitLogo from "../assets/lit.svg";
 
 export const fetchMessages = async (

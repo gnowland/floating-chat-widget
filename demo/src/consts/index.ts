@@ -1,4 +1,4 @@
-import type { ChatAction } from "../../../src/types";
+import type { ChatAction } from "advanced-chat-kai";
 
 export const roomActions: ChatAction<string>[] = [
   {
